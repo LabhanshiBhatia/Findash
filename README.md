@@ -2,7 +2,7 @@
 
 A modern, production-grade financial dashboard built with React, TypeScript, and Recharts. Track income, expenses, and get intelligent insights into your spending habits.
 
-![FinDash Preview](https://via.placeholder.com/1200x600/0a0d14/f59e0b?text=FinDash+Financial+Dashboard)
+[FinDash Preview](https://findash-2kcihmcno-labhanshi-bhatias-projects.vercel.app/)
 
 ---
 
